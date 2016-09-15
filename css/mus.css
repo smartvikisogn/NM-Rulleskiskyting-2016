@@ -21,3 +21,5 @@ footer{
         th {
             text-align: left;
         }
+table { table-layout: fixed; }
+td { width: 20%; }
