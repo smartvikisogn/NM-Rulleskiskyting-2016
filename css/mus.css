@@ -23,3 +23,10 @@ footer{
         }
 table { table-layout: fixed; }
 td { width: 20%; }
+
+/*to make image in the center*/
+.imgId img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
