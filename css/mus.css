@@ -35,6 +35,7 @@ td { width: 20%; }
 p {
     font-family: sans-serif;}
 
+/* to make it responsive to tablet*/
 @media (max-width: 1199px) {
     .navbar-header {
         float: none;
